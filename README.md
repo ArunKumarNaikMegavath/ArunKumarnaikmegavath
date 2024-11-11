@@ -30,7 +30,7 @@ I'm a Data Analyst with a passion for uncovering insights and driving business i
 ## 💼 My Projects
 - **[Electrical Power System Prototype](#)**: ⚡ A data-driven model optimizing energy distribution across sectors using solar, hydro, and wind sources.
 - **[Web Development Projects](#)**: 🌐 Developed websites for various sectors (e.g., Restaurant, Banking) using HTML, CSS, and JavaScript.
-- **[Movie Recommendation System](#)**🌐 Developed web app using Machine Learning and Streamlite. 
+- **[Movie Recommendation System](#)**: 🌐 Developed web app using Machine Learning and Streamlite. 
 
 ---
 
