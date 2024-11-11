@@ -45,7 +45,7 @@ I'm a Data Analyst with a passion for uncovering insights and driving business i
 
 ## 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/megavatharunkumarnaik/" target="_blank">
+  <a href="https://www.linkedin.com/in/arunkumarnaikmegavath/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:megavatharunkumarnaik2001@gmail.com">
