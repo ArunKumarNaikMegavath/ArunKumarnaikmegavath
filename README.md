@@ -1,4 +1,4 @@
-# Hi there, I'm Arun Kumar Naik 👋
+# Hi there, I'm <a href=https://arunkumarnaikmegavath.github.io/ArunkumarNaik/>Arun Kumar Naik</a> 👋
 
 🌐 Data Analyst | 💻 Developer | 📊 Finance Enthusiast
 
